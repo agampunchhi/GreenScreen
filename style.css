@@ -1,0 +1,14 @@
+html
+{
+  background-color:lightblue;
+}
+canvas
+{
+  width:400px;
+  height:300px;
+  border: 2px solid #202020;
+}
+input
+{
+  font-size:14pt;
+}
