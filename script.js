@@ -44,7 +44,7 @@ function doGS()
     }
   if(bgImg == null || !bgImg.complete())
     {
-       alert("Foreground image not loaded.");
+       alert("Background image not loaded.");
       return;
     }
   clearCan();
